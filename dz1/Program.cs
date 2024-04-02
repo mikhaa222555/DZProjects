@@ -8,3 +8,5 @@ int moscow = 13015126;
 
 Console.WriteLine($"{moscow - spb}");
 Console.ReadLine();
+
+//точнее сюда
